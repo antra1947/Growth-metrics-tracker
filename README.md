@@ -1,9 +1,9 @@
 
-# Order Flow Analysis (Python + MySQL Project)
+# Growth Metrics Tracker (Python + MySQL Project)
 
 ## Overview
 
-**Order Flow Analysis** is a Python-based ETL workflow that processes order data, performs analytics, and integrates seamlessly with MySQL for larger-scale data handling. It’s an efficient solution for getting your data into databases and querying insights via SQL.
+**Growth Metrics Tracker** is a Python-based ETL workflow that processes order data, performs analytics, and integrates seamlessly with MySQL for larger-scale data handling. It’s an efficient solution for getting your data into databases and querying insights via SQL.
 
 ---
 
@@ -45,7 +45,7 @@
 ## Repository Structure
 
 ```
-Order_Flow_Analysis/
+Growth Metrics Tracker/
 │
 ├─ flowAnalysis.py     # Main ETL and upload Python script
 ├─ orders.csv          # Source CSV with raw data
