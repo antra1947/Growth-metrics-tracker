@@ -1,5 +1,5 @@
 
-# Growth Metrics Tracker --- Python + SQL Project
+# Growth Metrics Tracker - Python + SQL Project
 
 ## Overview
 
