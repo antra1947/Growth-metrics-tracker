@@ -1,9 +1,9 @@
 
-# Growth Metrics Tracker - Python + SQL Project
+# Retail Demand Trend Analysis - Python + SQL Project
 
 ## Overview
 
-**Growth Metrics Tracker** is a Python-based ETL workflow that processes order data, performs analytics, and integrates seamlessly with MySQL for larger-scale data handling. It’s an efficient solution for getting your data into databases and querying insights via SQL.
+**Retail Demand Trend Analysis** is a Python-based ETL workflow that processes order data, performs analytics, and integrates seamlessly with MySQL for larger-scale data handling. It’s an efficient solution for getting your data into databases and querying insights via SQL.
 
 ---
 
