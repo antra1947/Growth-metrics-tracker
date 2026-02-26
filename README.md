@@ -1,9 +1,9 @@
 
-# Retail Demand Trend Analysis - Python + SQL Project
+# Growth-metrics-tracker Analysis - Python + SQL Project
 
 ## Overview
 
-**Retail Demand Trend Analysis** is a Python-based ETL workflow that processes order data, performs analytics, and integrates seamlessly with MySQL for larger-scale data handling. It’s an efficient solution for getting your data into databases and querying insights via SQL.
+**Growth-metrics-tracker Analysis** is a Python-based ETL workflow that processes order data, performs analytics, and integrates seamlessly with MySQL for larger-scale data handling. It’s an efficient solution for getting your data into databases and querying insights via SQL.
 
 ---
 
